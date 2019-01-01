@@ -1,0 +1,127 @@
+*{margin:0;padding:0}
+body{
+	font-size: 13px;
+}
+li{list-style:none}
+ul{list-style: none;}
+img{vertical-align:top;border:none}
+.center {
+	margin:0 auto;
+	width: 765px;
+}
+.advertising {
+	background-image: url("../images/top.jpg");
+	height: 160px;
+}
+.nav{
+	margin-top: 0px;
+	border-radius:5px;
+	height: 24px;
+	background-color: #045590;
+}
+.nav li{
+	float:left;
+	width: 75px;
+	padding-left: 10px;
+	color: white;
+	cursor:pointer;
+}
+#centerleft {
+	float: left;
+}
+#centerright {
+	float: right;
+}
+#login{
+    padding-top: 46px;
+    padding-left: 20px;
+    background-image: url(../images/zhuye_5.gif);
+    height: 110px;
+    width: 161px;
+}
+#login input {
+	width: 95px;
+}
+#login input[type="submit"] {
+	width: 50px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+#login input[type="reset"] {
+	width: 50px;
+}
+#compDy{
+    height: 110px;
+    width: 181px;
+}
+#conmDyTitle {
+	background-image: url(../images/zhuye01.jpg);
+	background-repeat:no-repeat;
+    height: 46px;
+}
+#conmDyContent {
+	background-image: url(../images/zhuye02.jpg);
+	background-repeat:no-repeat;
+    height: 100px;
+    color: #045590;
+}
+#compSimple {
+    background-image: url(../images/zhuye_6.jpg);
+    height: 164px;
+    width: 358px;
+    padding-top: 35px;
+    padding-left: 25px;
+    padding-right: 200px;
+}
+#industryDy {
+
+	background-image: url(../images/zhuye_8.gif);
+	background-repeat:no-repeat;
+    height: 150px;
+}
+#industryDy .Dyleft{
+	float: left;
+	width: 275px;
+}
+#industryDy .Dyright{
+	float: left;
+	width: 300px;
+}
+#industryDy ul{
+	padding-top: 32px;
+	padding-left: 40px;
+}
+#industryDy ul li {
+	list-style-image:url(../images/dian.gif);
+}
+#compIndustry{
+	background-image: url(../images/index1.jpg);
+    height: 140px;
+    width: 570px;
+}
+.footer{
+	float: left;
+	background-image: url(../images/zhuye_19.gif);
+    height: 59px;
+    width: 760px;
+}
+#friendlink {
+	float: left;;
+	height: 140px;
+    width: 181px;
+    margin-top: 38px;
+    background-color: #c1e3ff;
+}
+#friendlink .title {
+	font-size: 20px;
+	color: #045590;
+	margin-top: 5px;
+	margin-left: 51px;
+}
+#friendlink select {
+	width: 150px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+
